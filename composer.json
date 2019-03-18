@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "name": "Dev-System/Tools",
+    "description": "EasyD Tools",
+    "license": "Private",
+    "keywords": [
+    ],
+    "authors": [
+        {
+            "name": "Stephane Rame",
+            "email": "stephane.rame@dev-system.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
